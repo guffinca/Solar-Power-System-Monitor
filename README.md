@@ -1,13 +1,10 @@
 # Solar-Power-System-Monitor
 
 Materials Needed:
-    Arduino board
-    
-    Solar panel
-    
-    Voltage Divider components (two resistors)
-    
-    Breadboard and wires
+    Arduino board ||
+    Solar panel ||
+    Voltage Divider components (two resistors) ||
+    Breadboard and wires ||
   
 
 Circuit Connection:
